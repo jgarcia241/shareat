@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Star Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Map---Place" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-51.000000, -511.000000)">
+        <g id="Info" transform="translate(0.000000, 445.000000)" fill="#FF9500">
+            <g transform="translate(0.000000, 17.000000)" id="Rating">
+                <g transform="translate(15.000000, 49.000000)">
+                    <path d="M39.6732005,7.32075682 L35.9632685,4.76528818 L40.460757,4.81295631 L41.9722308,0 L43.5929077,4.84615346 L48.0255806,4.89313462 L44.4672096,7.27015528 L46.0509273,11.713851 L45.8413662,11.5695015 L45.9090121,11.7717765 L45.9222626,11.8113981 L41.9722309,9.01692826 L38.2037183,12 L39.6732005,7.32075682 Z" id="Star-Icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Memories" transform="translate(-341.000000, -59.000000)" fill="#007AFF">
+            <g id="Top-Bar">
+                <g id="UI-Bars-/-Top-Bars-/-Light-/-Large-Top-Bar">
+                    <g id="Right" transform="translate(205.000000, 45.000000)">
+                        <g id="Icon-2" transform="translate(136.000000, 14.000000)">
+                            <path d="M1,7 C1,3.685 3.687,1 7,1 C10.315,1 13,3.685 13,7 C13,10.313 10.315,13 7,13 C3.687,13 1,10.313 1,7 L1,7 Z M17,15.939 L12.449,11.389 C13.418,10.188 14,8.663 14,7 C14,3.133 10.867,0 7,0 C3.135,0 0,3.133 0,7 C0,10.865 3.135,14 7,14 C8.663,14 10.188,13.418 11.389,12.449 L15.939,17 L17,15.939 Z" id="Icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

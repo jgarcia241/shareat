@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="13px" viewBox="0 0 14 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Star Icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Reading-now" transform="translate(-64.000000, -636.000000)" fill="#FD8206">
+            <g id="Review" transform="translate(20.000000, 599.000000)">
+                <g id="Rating" transform="translate(17.000000, 37.000000)">
+                    <path d="M31.6237886,7.4147334 L27.8751735,4.82361136 L32.4290798,4.86489849 L33.9655165,0 L35.6113779,4.8937502 L40.1124963,4.93455873 L36.4986208,7.36313539 L38.0982095,11.8899901 L37.9238021,11.769436 L37.9801551,11.9369944 L37.9936677,11.9771722 L33.9655166,9.14348164 L30.1224745,12.1684211 L31.6237886,7.4147334 Z" id="Star-Icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

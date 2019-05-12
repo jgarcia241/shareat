@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="20px" viewBox="0 0 32 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Graphics-/-Tab-Bar-Icons-/-Gray-/-Shared" transform="translate(1.000000, -3.000000)" fill="#A1A1A1">
+            <path d="M25.559796,10.9177885 C25.3694502,6.51525011 21.7235972,3 17.2402229,3 C13.8989231,3 11.0242144,4.95571507 9.69374646,7.77159605 C9.02216764,7.36572947 8.24126204,7.11872237 7.39690787,7.11872237 C5.00343221,7.11872237 3.06678632,9.00081963 2.96917312,11.3517461 C0.926128849,12.265188 -0.5,14.2993642 -0.5,16.668695 C-0.5,19.8894739 2.13067574,22.5 5.3753385,22.5 L24.6217331,22.5 C27.8683481,22.5 30.5,19.8894739 30.5,16.668695 C30.5,13.7646664 28.3583664,11.3643386 25.559796,10.9177885" id="Icon"></path>
+        </g>
+    </g>
+</svg>

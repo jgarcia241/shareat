@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="66px" viewBox="0 0 60 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Map---Place" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-158.000000, -206.000000)">
+        <g id="Pin" transform="translate(158.000000, 206.000000)" fill="#FF8D36">
+            <path d="M25.2131252,59.6201729 C10.9198405,57.3281782 0,44.9393218 0,30 C0,13.4314575 13.4314575,0 30,0 C46.5685425,0 60,13.4314575 60,30 C60,44.8963384 49.1429062,57.2568667 34.9101647,59.6001387 C30.7468536,61.5419237 30,66 30,66 C30,66 28.1053223,60.6327714 25.2131252,59.6201729 Z" id="Oval"></path>
+        </g>
+    </g>
+</svg>
